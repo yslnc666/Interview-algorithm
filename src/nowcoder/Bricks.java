@@ -1,4 +1,4 @@
-package practice;
+package nowcoder;
 import java.util.Objects;
 import java.util.Scanner;
 
