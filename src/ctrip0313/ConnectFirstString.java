@@ -2,6 +2,7 @@ package ctrip0313;
 
 import java.util.Scanner;
 
+// 01
 public class ConnectFirstString {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
