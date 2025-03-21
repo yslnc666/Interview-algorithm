@@ -1,4 +1,4 @@
-package hungry0314;
+package BigTechExam.hungry0314;
 
 import java.util.Scanner;
 

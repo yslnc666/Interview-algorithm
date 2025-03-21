@@ -1,4 +1,4 @@
-package hungury0307;
+package BigTechExam.hungury0307;
 
 import java.util.Scanner;
 
